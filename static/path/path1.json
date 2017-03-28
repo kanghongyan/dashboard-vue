@@ -1,0 +1,22 @@
+{
+  "message": "ok",
+  "status": 200,
+  "data": {
+    "id": 1001,
+    "name": "pathname",
+    "data": [{
+      "name": "pathname1-1",
+      "next": 0,
+      "dataSource": {
+        "x": [1,2,3]
+      }
+    },{
+      "name": "pathname1-2",
+      "next": 1,
+      "dataSource": {
+        "x": [4,5,6],
+        "y": [1,2,3]
+      }
+    }]
+  }
+}
